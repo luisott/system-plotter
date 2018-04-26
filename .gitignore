@@ -26,6 +26,6 @@ hs_err_pid*
 *.ipr
 *.iws
 
-
+ 
 # gradle temp files
 .gradle/
